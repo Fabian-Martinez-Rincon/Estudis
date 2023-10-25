@@ -1,7 +1,5 @@
-# Estudis
 
+<h2 align='center'> Adapta tu texto de forma inclusiva</h2>
 
-- [Configuracion para los sliders](https://revealjs.com/config/)
-- [Guia](https://www.youtube.com/watch?v=squd3Kh8iWs)
+<a title="" href="https://fabian-martinez-rincon.github.io/studis-presentation/"><img src="./static/studis.png" alt="" /></a>
 
-Examenes adaptativos para personas con dislexia 
